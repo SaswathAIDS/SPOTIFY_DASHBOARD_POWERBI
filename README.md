@@ -44,7 +44,6 @@ A dynamic Power BI dashboard that integrates with the **Spotify Developer API** 
 
 - Enhanced decision-making with up-to-date streaming data  
 - Improved tracking of user engagement and content performance  
-🔗 [LinkedIn](https://www.linkedin.com/in/hariharan-s-699b58220/)
 
 ---
 
